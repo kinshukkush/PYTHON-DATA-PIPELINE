@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "P001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 599.0,
+    "currency": "INR",
+    "in_stock": true
+  },
+  {
+    "sku": "P002",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 2499.0,
+    "currency": "INR",
+    "in_stock": true
+  }
+]
